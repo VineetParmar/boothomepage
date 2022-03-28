@@ -1,0 +1,319 @@
+body{
+    background-color: whitesmoke;
+}
+#con{
+    width: 100%;
+}
+#ro{
+    margin: 10px 10px;
+}
+#navcol{
+    background-color: rgb(228, 77, 23);
+    margin: 4px 0px;
+    padding: 4px 0px;
+}
+.navbar-inverse .navbar-brand {
+    color: yellow;
+    font-size: 25px;
+    font-weight: bold;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #0c0a0a;
+   font-weight: bold;
+}
+#regis{
+    font-weight: bold;
+}
+#log{
+    font-weight: bold; 
+}
+#con1{
+    width: 100%;
+}
+#slideimg{
+    height: 620px;
+    width: 100%;
+
+}
+#vinslide{
+    margin: 0px 2px;
+}
+#chevronleft{
+    left: 15%;
+}
+#chevronright{
+right: 15%;
+}
+.head{
+    font-size: 60px;
+    color: whitesmoke;
+}
+.par{
+    font-size: 20px;
+    color: whitesmoke;
+}
+.icon > img{
+    height: 20px;
+    width: 20px;
+    border:2px solid black;
+    border-radius: 5px;
+}
+#first{
+        height: 220px;
+        box-shadow: 1px 2px 17px grey;
+        border-radius: 10px;
+        padding: 7px 8px; 
+}
+#second{
+        height: 220px;
+        box-shadow: 1px 2px 17px grey;
+        border-radius: 10px;
+        padding: 7px 8px;
+}
+#third{
+    height: 220px;
+    box-shadow: 1px 2px 17px grey;
+    border-radius: 10px;
+    padding: 7px 8px;
+}
+#fourth{
+    height: 220px;
+    box-shadow: 1px 2px 17px grey;
+    border-radius: 10px;
+    padding: 7px 8px;
+}
+.content1{
+    height: 180px;
+    background-color: olive;
+    width:100%;
+}
+.content1 > img{
+    height: 180px;
+    width:100%;
+}
+.content2{
+    color: red;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold; 
+    margin-left: 26%;
+}
+#first:hover{
+    transform: scale(1.08);
+}
+#second:hover{
+    transform: scale(1.08);
+}
+#third:hover{
+    transform: scale(1.08);
+}
+#fourth:hover{
+    transform: scale(1.08);
+}
+.restro{
+    font-size: 40px;
+    padding: 7px 8px;
+    margin: 2px 10px;
+}
+#cont1{
+    height: 300px;
+    box-shadow: 1px 2px 17px grey;
+    border-radius: 10px;
+    padding: 7px 8px;
+    margin: 2px 10px;
+ 
+}
+#cont2{
+    height: 300px;
+    box-shadow: 1px 2px 17px grey;
+    border-radius: 10px;
+    padding: 7px 8px;
+    margin: 2px 10px;
+}
+
+#cont3{
+    height: 300px;
+    box-shadow: 1px 2px 17px grey;
+    border-radius: 10px;
+    padding: 7px 8px;
+    margin: 2px 10px;
+}
+#cont4{
+    height: 300px;
+    box-shadow: 1px 2px 17px grey;
+    border-radius: 10px;
+    padding: 7px 8px;
+    margin: 6px 10px;
+}
+#cont5{
+    height: 300px;
+    box-shadow: 1px 2px 17px grey;
+    border-radius: 10px;
+    padding: 7px 8px;
+    margin: 6px 10px;
+}
+#cont6{
+    height: 300px;
+    box-shadow: 1px 2px 17px grey;
+    border-radius: 10px;
+    padding: 7px 8px;
+    margin: 6px 10px;
+}
+#cont1:hover{
+    transform: scale(1.08);
+}
+#cont2:hover{
+    transform: scale(1.08);
+}
+#cont3:hover{
+    transform: scale(1.08);
+}
+#cont4:hover{
+    transform: scale(1.08);
+}
+#cont5:hover{
+    transform: scale(1.08);
+}
+#cont6:hover{
+    transform: scale(1.08);
+}
+#con1{
+    width: 100%;
+    padding-left: 17%;
+}
+.restimg{
+    height: 250px;
+    background-color: olive;
+    width:100%;
+}
+.restimg > img{
+    height: 250px;
+    width: 100%;
+}
+.namrest{
+    color: red;
+    height: 35px;
+    font-size: 25px;
+    font-weight: bold; 
+}
+.mainhead{
+    height: 180px;
+    width: 100%;
+}
+.foot{
+    height: 140px;
+    width: 30%;
+    float: left;
+}
+.headingd{
+    font-size: 25px;
+    font-weight: bold;
+}
+.contact{
+    font-size: 16px;
+    font-weight: 600;
+    display: block;
+}
+.foot2{
+    height: 140px;
+    width: 50%;
+    float: left;
+}
+.head2{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 20%;
+}
+.fo2{
+    margin-left: 8%;
+}
+.logo {
+    height: 40px;
+    width: 8%;
+    margin-left: 5%;
+}
+.create{
+    font-size: 18px;
+    font-weight: bold;
+}
+.by{
+    font-size: 25px;
+    font-weight: bold;
+}
+/* .black{
+    height: 150px;
+    background-color: black;
+    width: 2%;
+} */
+
+@media only screen and (max-width: 700px){
+    #con1{
+        padding-left: 0%;
+    }
+    .restro{
+        font-size: 29px;
+    }
+    .content2{
+        font-size: 16px;
+        margin-left: 18%;
+    }
+    #slideimg {
+        height: 300px;
+    }
+    .head{
+        font-size: 30px;
+    }
+    .headingd {
+        font-size: 20px;
+    }
+    .contact {
+        font-size: 14px;
+    }
+    .head2 {
+        font-size: 18px;
+        margin-left: 4%;
+    }
+    .logo {
+        height: 28px;
+        width: 10%;
+        margin-left: 3%;
+    }
+    .create {
+        font-size: 15px;
+    }
+    .by {
+        font-size: 19px;
+    }
+
+
+}
+@media only screen and (max-width: 1000px){
+    #con1{
+        padding-left: 0%;
+    }
+    
+}
+
+
+
+
+/* #logo{
+    height: 120px;
+    width: 120px;
+    background-color: rgb(240 229 229 / 55%);
+    border-radius: 50%;
+    margin-top: 3%;
+    margin-left: 45%;
+    animation: revolve 15s infinite;
+}
+ @keyframes revolve{
+    0% {transform: rotate(30deg);}
+    25%{transform: rotate(90deg);}
+    50%{transform: rotate(180deg);}
+    75%{transform: rotate(270deg);}
+    100%{transform: rotate(360deg);}
+} 
+#logo>span{ 
+    font-size: 80px;
+    color: black;
+} */
